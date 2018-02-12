@@ -1,7 +1,7 @@
 # website
 https://wtobor.github.io/board-games-nook-demo
 
-# BoardGamesNook app demo
+# BoardGamesNook demo
 https://github.com/WTobor/BoardGamesNook
 
 # Source code repository board-games-nook-demo
